@@ -7,6 +7,7 @@ Algorithm
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shinjuno123/Algorithm/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/shinjuno123/Algorithm/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shinjuno123/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/shinjuno123/Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shinjuno123/Algorithm/tree/master/0287-find-the-duplicate-number) |
@@ -29,9 +30,14 @@ Algorithm
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shinjuno123/Algorithm/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shinjuno123/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shinjuno123/Algorithm/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shinjuno123/Algorithm/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
