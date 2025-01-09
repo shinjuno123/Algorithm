@@ -7,7 +7,7 @@ public class Solution {
         int globalMax = nums[0];
         int globalMin = nums[0];
 
-        for (int i=1; i < nums.Length; ++i){
+        for (int i=1; i < nums.Length; i++){
             int localMax = globalMax * nums[i];
             int localMin = globalMin * nums[i];
 
