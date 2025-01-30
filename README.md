@@ -58,4 +58,8 @@ Algorithm
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shinjuno123/Algorithm/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/shinjuno123/Algorithm/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
