@@ -10,6 +10,7 @@ Algorithm
 | [0011-container-with-most-water](https://github.com/shinjuno123/Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shinjuno123/Algorithm/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shinjuno123/Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/shinjuno123/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shinjuno123/Algorithm/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shinjuno123/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shinjuno123/Algorithm/tree/master/0152-maximum-product-subarray) |
@@ -25,6 +26,7 @@ Algorithm
 | ------- |
 | [0011-container-with-most-water](https://github.com/shinjuno123/Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shinjuno123/Algorithm/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/shinjuno123/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/shinjuno123/Algorithm/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -39,6 +41,7 @@ Algorithm
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shinjuno123/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shinjuno123/Algorithm/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shinjuno123/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shinjuno123/Algorithm/tree/master/0152-maximum-product-subarray) |
@@ -62,4 +65,12 @@ Algorithm
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/shinjuno123/Algorithm/tree/master/0172-factorial-trailing-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shinjuno123/Algorithm/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shinjuno123/Algorithm/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
