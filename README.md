@@ -50,6 +50,7 @@ Algorithm
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shinjuno123/Algorithm/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/shinjuno123/Algorithm/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,4 +75,12 @@ Algorithm
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shinjuno123/Algorithm/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shinjuno123/Algorithm/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shinjuno123/Algorithm/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
