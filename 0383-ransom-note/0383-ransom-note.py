@@ -1,16 +1,15 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        # Time O (N + M), Space O (N)
-        storage = {}
-        for i in range(len(ransomNote)):
-            if ransomNote[i] not in storage:
-                storage[ransomNote[i]] = 1
-            else:
-                storage[ransomNote[i]] += 1
-        
-        for i in range(len(magazine)):
-            if magazine[i] in storage and storage[magazine[i]] > 0:
-                storage[magazine[i]] -= 1
+        # Time O (N + M), Space O (26) -> A - Z -> O (1)
+        maga_hash = {}
 
-        return not any(storage.values())
+        for c in magazine:
+            maga_hash[c] = 1 + maga_hash.get(c, 0)
+        
+        for c in ransomNote:
+            if c not in maga_hash or maga_hash[c] <= 0:
+                return False
+            maga_hash[c] -= 1
+        
+        return True
         
