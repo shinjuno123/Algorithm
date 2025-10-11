@@ -16,6 +16,7 @@ Algorithm
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shinjuno123/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shinjuno123/Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shinjuno123/Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/shinjuno123/Algorithm/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/shinjuno123/Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shinjuno123/Algorithm/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
@@ -51,16 +52,19 @@ Algorithm
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shinjuno123/Algorithm/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shinjuno123/Algorithm/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/shinjuno123/Algorithm/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shinjuno123/Algorithm/tree/master/0409-longest-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shinjuno123/Algorithm/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shinjuno123/Algorithm/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shinjuno123/Algorithm/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/shinjuno123/Algorithm/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -87,6 +91,7 @@ Algorithm
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shinjuno123/Algorithm/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/shinjuno123/Algorithm/tree/master/0383-ransom-note) |
 ## Memoization
 |  |
