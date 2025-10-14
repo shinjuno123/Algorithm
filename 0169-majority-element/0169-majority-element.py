@@ -1,15 +1,12 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        # O (N) O (N)
-        dic = {}
-        max_val = float('-inf')
-        max_key = None
+        hash = {}
+        res = majority = 0
 
-        for num in nums:
-            dic[num] = 1 + dic.get(num, 0)
+        for n in nums:
+            hash[n] = 1 + hash.get(n, 0)
+            if hash[n] > majority:
+                res = n
+                majority = hash[n]
 
-            if max_val < dic[num]:
-                max_val = dic[num]
-                max_key = num
-
-        return max_key
+        return res
