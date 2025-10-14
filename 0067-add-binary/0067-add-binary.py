@@ -6,7 +6,6 @@ class Solution:
             return self.addBinary(b, a)
         
         b = "0" * (len(a) - len(b)) + b
-        print(a,  b)
         
         # a is always longer than or equal to the length of b
 
