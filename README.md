@@ -39,6 +39,7 @@ Algorithm
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shinjuno123/Algorithm/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/shinjuno123/Algorithm/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
@@ -73,6 +74,7 @@ Algorithm
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shinjuno123/Algorithm/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shinjuno123/Algorithm/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/shinjuno123/Algorithm/tree/master/0172-factorial-trailing-zeroes) |
 ## Stack
@@ -86,6 +88,7 @@ Algorithm
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shinjuno123/Algorithm/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/shinjuno123/Algorithm/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shinjuno123/Algorithm/tree/master/0409-longest-palindrome) |
 ## Counting
@@ -105,4 +108,8 @@ Algorithm
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shinjuno123/Algorithm/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shinjuno123/Algorithm/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
