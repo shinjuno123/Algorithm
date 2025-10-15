@@ -30,6 +30,7 @@ Algorithm
 | [0015-3sum](https://github.com/shinjuno123/Algorithm/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/shinjuno123/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/shinjuno123/Algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0908-middle-of-the-linked-list](https://github.com/shinjuno123/Algorithm/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Algorithm
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shinjuno123/Algorithm/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/shinjuno123/Algorithm/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
