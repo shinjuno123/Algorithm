@@ -17,6 +17,7 @@ Algorithm
 | [0152-maximum-product-subarray](https://github.com/shinjuno123/Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shinjuno123/Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shinjuno123/Algorithm/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shinjuno123/Algorithm/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shinjuno123/Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shinjuno123/Algorithm/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
@@ -55,6 +56,7 @@ Algorithm
 | ------- |
 | [0001-two-sum](https://github.com/shinjuno123/Algorithm/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shinjuno123/Algorithm/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shinjuno123/Algorithm/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/shinjuno123/Algorithm/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shinjuno123/Algorithm/tree/master/0409-longest-palindrome) |
 ## Divide and Conquer
@@ -67,6 +69,7 @@ Algorithm
 | ------- |
 | [0015-3sum](https://github.com/shinjuno123/Algorithm/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/shinjuno123/Algorithm/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shinjuno123/Algorithm/tree/master/0217-contains-duplicate) |
 ## Greedy
 |  |
 | ------- |
