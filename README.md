@@ -31,6 +31,7 @@ Algorithm
 | [0015-3sum](https://github.com/shinjuno123/Algorithm/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/shinjuno123/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/shinjuno123/Algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0874-backspace-string-compare](https://github.com/shinjuno123/Algorithm/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/shinjuno123/Algorithm/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -87,6 +88,7 @@ Algorithm
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shinjuno123/Algorithm/tree/master/0042-trapping-rain-water) |
+| [0874-backspace-string-compare](https://github.com/shinjuno123/Algorithm/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Algorithm
 | [0067-add-binary](https://github.com/shinjuno123/Algorithm/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/shinjuno123/Algorithm/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shinjuno123/Algorithm/tree/master/0409-longest-palindrome) |
+| [0874-backspace-string-compare](https://github.com/shinjuno123/Algorithm/tree/master/0874-backspace-string-compare) |
 ## Counting
 |  |
 | ------- |
@@ -120,6 +123,7 @@ Algorithm
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shinjuno123/Algorithm/tree/master/0067-add-binary) |
+| [0874-backspace-string-compare](https://github.com/shinjuno123/Algorithm/tree/master/0874-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
