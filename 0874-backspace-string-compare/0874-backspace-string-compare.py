@@ -1,22 +1,33 @@
 class Solution:
     def backspaceCompare(self, s: str, t: str) -> bool:
-        # Time O (M + N)
-        # Space O (M + N)
-        result_s = []
-        result_t = []
+        ps, pt = len(s) - 1, len(t) - 1
 
-        for c in s:
-            if c == "#":
-                if len(result_s) > 0:
-                    result_s.pop()
-            else:
-                result_s.append(c)
+        def get_next_valid_pointer(s, end):
+            backspace_count = 0
+            while end >= 0:
+                if s[end] == '#':
+                    backspace_count += 1
+                elif backspace_count > 0:
+                    backspace_count -= 1
+                else:
+                    break
+                
+                end -= 1
+            
+            return end
+
+        while ps >= 0 or pt >= 0:
+            ps = get_next_valid_pointer(s, ps)
+            pt = get_next_valid_pointer(t, pt)
+
+            if ps < 0 and pt < 0:
+                return True
+            elif ps < 0 or pt < 0:
+                return False
+            elif s[ps] != t[pt]:
+                return False
         
-        for c in t:
-            if c == "#":
-                if len(result_t) > 0:
-                    result_t.pop() 
-            else:
-                result_t.append(c)
-
-        return result_s == result_t
+            ps -= 1
+            pt -= 1
+            
+        return True
