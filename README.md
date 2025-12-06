@@ -61,6 +61,7 @@ Algorithm
 | [0013-roman-to-integer](https://github.com/shinjuno123/Algorithm/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shinjuno123/Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shinjuno123/Algorithm/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shinjuno123/Algorithm/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shinjuno123/Algorithm/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shinjuno123/Algorithm/tree/master/0409-longest-palindrome) |
 ## Divide and Conquer
@@ -74,6 +75,7 @@ Algorithm
 | [0015-3sum](https://github.com/shinjuno123/Algorithm/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/shinjuno123/Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shinjuno123/Algorithm/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shinjuno123/Algorithm/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +102,7 @@ Algorithm
 | ------- |
 | [0013-roman-to-integer](https://github.com/shinjuno123/Algorithm/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/shinjuno123/Algorithm/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/shinjuno123/Algorithm/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shinjuno123/Algorithm/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shinjuno123/Algorithm/tree/master/0409-longest-palindrome) |
 | [0874-backspace-string-compare](https://github.com/shinjuno123/Algorithm/tree/master/0874-backspace-string-compare) |
