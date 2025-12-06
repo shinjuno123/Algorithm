@@ -20,6 +20,7 @@ Algorithm
 | [0217-contains-duplicate](https://github.com/shinjuno123/Algorithm/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shinjuno123/Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shinjuno123/Algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/shinjuno123/Algorithm/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Algorithm
 | [0033-search-in-rotated-sorted-array](https://github.com/shinjuno123/Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shinjuno123/Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/shinjuno123/Algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/shinjuno123/Algorithm/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
