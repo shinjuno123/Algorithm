@@ -6,17 +6,11 @@
 #         self.right = right
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
-        # Time Complexity: O (N), Space Complexity O (1) 
+        # Time Complexity: O (N), Space Complexity O (h) - height of tree  worse case O (N)
         if not p and not q:
             return True
-        if not p and q:
-            return False
-        if p and not q:
-            return False
-        if p and q and p.val != q.val:
-            return False
 
-        left = self.isSameTree(p.left, q.left)
-        right = self.isSameTree(p.right, q.right)
+        if p and q and p.val == q.val:
+            return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
         
-        return left and right
+        return False
