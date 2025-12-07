@@ -8,6 +8,7 @@ Algorithm
 | ------- |
 | [0001-two-sum](https://github.com/shinjuno123/Algorithm/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shinjuno123/Algorithm/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/shinjuno123/Algorithm/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shinjuno123/Algorithm/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shinjuno123/Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shinjuno123/Algorithm/tree/master/0042-trapping-rain-water) |
@@ -105,6 +106,7 @@ Algorithm
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shinjuno123/Algorithm/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/shinjuno123/Algorithm/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/shinjuno123/Algorithm/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/shinjuno123/Algorithm/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shinjuno123/Algorithm/tree/master/0383-ransom-note) |
@@ -156,4 +158,8 @@ Algorithm
 | ------- |
 | [0100-same-tree](https://github.com/shinjuno123/Algorithm/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shinjuno123/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shinjuno123/Algorithm/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
