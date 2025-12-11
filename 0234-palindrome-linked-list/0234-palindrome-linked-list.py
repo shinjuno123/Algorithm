@@ -5,11 +5,31 @@
 #         self.next = next
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
-        # Time O (N) Space: O (N) Solution
-        tmp = []
-
-        while head:
-            tmp.append(head.val)
+        slow, fast = head, head
+        # 1  -> 2 -> 3(s) -> 2 -> 1(f)
+        # 
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+        
+        curr = slow
+        prev = None
+        while curr:
+            tmp = curr.next
+            curr.next = prev
+            prev = curr
+            curr = tmp
+        
+        
+        while prev:
+            if prev.val != head.val:
+                return False
+            
+            prev = prev.next
             head = head.next
         
-        return tmp == list(reversed(tmp))
+        return True
+
+
+
+
