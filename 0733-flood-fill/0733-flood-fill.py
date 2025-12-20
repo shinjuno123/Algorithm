@@ -1,39 +1,20 @@
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
         init_color = image[sr][sc]
-        if init_color == color:
-            return image
-        max_r, max_c = len(image) - 1, len(image[0]) - 1
+        max_row = len(image) - 1
+        max_col = len(image[sr]) - 1
 
-        def fill(r, c):
-            if r < 0 or r > max_r or c < 0 or c > max_c or image[r][c] != init_color:
+        def fill(row, col):
+            if row < 0 or col < 0 or row > max_row or col > max_col or image[row][col] == color or image[row][col] != init_color:
                 return
-            
-            image[r][c] = color
-            fill(r + 1, c)
-            fill(r - 1, c)
-            fill(r, c + 1)
-            fill(r, c - 1)
+
+            image[row][col] = color
+            fill(row, col + 1) # move top
+            fill(row, col - 1) # move down
+            fill(row + 1, col) # move right
+            fill(row - 1, col) # move left
+
 
         fill(sr, sc)
+
         return image
-
-
-        # old = image[sr][sc]
-        # if old == color:
-        #     return image
-
-        # m = len(image)
-        # n = len(image[0])
-
-        # def dfs(i, j):
-        #     if i < 0 or i >= m or j < 0 or j >= n or image[i][j] != old:
-        #         return
-        #     image[i][j] = color
-        #     dfs(i+1, j)
-        #     dfs(i-1, j)
-        #     dfs(i, j + 1)
-        #     dfs(i, j - 1)
-        
-        # dfs(sr, sc)
-        # return image
