@@ -32,6 +32,7 @@ Algorithm
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shinjuno123/Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shinjuno123/Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shinjuno123/Algorithm/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/shinjuno123/Algorithm/tree/master/0042-trapping-rain-water) |
@@ -59,6 +60,7 @@ Algorithm
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shinjuno123/Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shinjuno123/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shinjuno123/Algorithm/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shinjuno123/Algorithm/tree/master/0070-climbing-stairs) |
@@ -113,6 +115,7 @@ Algorithm
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shinjuno123/Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/shinjuno123/Algorithm/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shinjuno123/Algorithm/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/shinjuno123/Algorithm/tree/master/0067-add-binary) |
